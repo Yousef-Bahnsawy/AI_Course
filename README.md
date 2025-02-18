@@ -1,1 +1,1 @@
-# AI_diploma
+# AI_Course
